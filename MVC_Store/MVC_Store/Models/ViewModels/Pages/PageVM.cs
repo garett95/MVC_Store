@@ -32,6 +32,7 @@ namespace MVC_Store.Models.ViewModels.Pages
         [StringLength(int.MaxValue, MinimumLength =3)]
         public string Body { get; set; }
         public int Sorting { get; set; }
+        [Display(Name = "Sidebar")]
         public bool HasSidebar { get; set; }
     }
 }

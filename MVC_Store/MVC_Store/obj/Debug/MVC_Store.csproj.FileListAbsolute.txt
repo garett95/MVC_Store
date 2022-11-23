@@ -79,8 +79,12 @@ C:\Users\Fedor Andreevich\Desktop\git\MVC_Store\MVC_Store\MVC_Store\MVC_Store\bi
 C:\Users\Fedor Andreevich\Desktop\git\MVC_Store\MVC_Store\MVC_Store\MVC_Store\bin\ru\System.Web.WebPages.Deployment.resources.dll
 C:\Users\Fedor Andreevich\Desktop\git\MVC_Store\MVC_Store\MVC_Store\MVC_Store\bin\ru\System.Web.WebPages.Razor.resources.dll
 C:\Users\Fedor Andreevich\Desktop\git\MVC_Store\MVC_Store\MVC_Store\MVC_Store\bin\ru\System.Web.Optimization.resources.dll
-C:\Users\Fedor Andreevich\Desktop\git\MVC_Store\MVC_Store\MVC_Store\MVC_Store\obj\Debug\MVC_Store.csproj.AssemblyReference.cache
 C:\Users\Fedor Andreevich\Desktop\git\MVC_Store\MVC_Store\MVC_Store\MVC_Store\obj\Debug\MVC_Store.csproj.CoreCompileInputs.cache
 C:\Users\Fedor Andreevich\Desktop\git\MVC_Store\MVC_Store\MVC_Store\MVC_Store\obj\Debug\MVC_Store.csproj.CopyComplete
 C:\Users\Fedor Andreevich\Desktop\git\MVC_Store\MVC_Store\MVC_Store\MVC_Store\obj\Debug\MVC_Store.dll
 C:\Users\Fedor Andreevich\Desktop\git\MVC_Store\MVC_Store\MVC_Store\MVC_Store\obj\Debug\MVC_Store.pdb
+C:\Users\Fedor Andreevich\Desktop\git\MVC_Store\MVC_Store\MVC_Store\MVC_Store\bin\EntityFramework.dll
+C:\Users\Fedor Andreevich\Desktop\git\MVC_Store\MVC_Store\MVC_Store\MVC_Store\bin\EntityFramework.SqlServer.dll
+C:\Users\Fedor Andreevich\Desktop\git\MVC_Store\MVC_Store\MVC_Store\MVC_Store\bin\EntityFramework.xml
+C:\Users\Fedor Andreevich\Desktop\git\MVC_Store\MVC_Store\MVC_Store\MVC_Store\bin\EntityFramework.SqlServer.xml
+C:\Users\Fedor Andreevich\Desktop\git\MVC_Store\MVC_Store\MVC_Store\MVC_Store\obj\Debug\MVC_Store.csproj.AssemblyReference.cache
